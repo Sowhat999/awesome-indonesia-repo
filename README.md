@@ -159,6 +159,8 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Teleport](https://github.com/muhammadmuhlas/teleport) - A simple tool based on Go to migrate git repository.
 - [PHC Crypto](https://github.com/aldy505/phc-crypto) - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js.
 - [Design Pattern](https://github.com/imrenagi/design-pattern) - Design pattern with Go
+- [Gubrak](https://github.com/novalagung/gubrak) - Golang functional utility library with syntactic sugar. It's like lodash, but for Go
+- [Godong](https://github.com/novalagung/godong) - Easiest dynamic http route handler for golang
 
 ## Haskell
 
