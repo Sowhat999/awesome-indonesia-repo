@@ -241,6 +241,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Tic Tac Vue](https://github.com/widatama/tic-tac-vue) - Tic tac toe game implemented with Vue.js.
 - [Guess the Number](https://github.com/widatama/guess-the-number) - A single player guess the number game made with Vue.js.
 - [Vuello](https://github.com/kurnyaannn/vuello) - Simple Trello Clone built using Vite-Vue + TailwindCSS
+- [Disgrow-visualization](https://github.com/sinkaroid/disgrow-visualization) - Create your web visualization Discord bots growth and statistics with ease.
 
 ## Gridsome Starter
 
