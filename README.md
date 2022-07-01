@@ -209,6 +209,8 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [cabul](https://github.com/sinkaroid/cabul) - Cabul guide you to the NSFW world of reddit.
 - [CariKerja](https://github.com/rizafahmi/carikerja) - About
 Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terkena pemutusan hubungan kerja karena pandemi COVID-19 dengan perusahaan yang sedang mencari talenta digital.
+- [Disgrow](https://github.com/sinkaroid/disgrow) - A growth increments for your Discord bots.
+- [Jandapress](https://github.com/sinkaroid/jandapress) - RESTful API for the doujinboards with gather in mind.
 
 ## Java
 
@@ -240,6 +242,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Tic Tac Vue](https://github.com/widatama/tic-tac-vue) - Tic tac toe game implemented with Vue.js.
 - [Guess the Number](https://github.com/widatama/guess-the-number) - A single player guess the number game made with Vue.js.
 - [Vuello](https://github.com/kurnyaannn/vuello) - Simple Trello Clone built using Vite-Vue + TailwindCSS
+- [Disgrow-visualization](https://github.com/sinkaroid/disgrow-visualization) - Create your web visualization Discord bots growth and statistics with ease.
 
 ## Gridsome Starter
 
