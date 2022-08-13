@@ -92,6 +92,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Books
 
+- [Panduan Lengkap Refactoring](https://github.com/zuramai/refactoring) - Kumpulan metode refactoring dan cara mengatasi code smells yang berpotensi mengurangi maintainability pada sebuah software. 
 - [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) - Freely available programming books written in Indonesian.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku *Version Control* menggunakan `Git`.
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - *E-library* yang berisi kumpulan *E-book* tentang dunia IT.
