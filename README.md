@@ -89,6 +89,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Indonesia Cyber Security Resources](https://github.com/Screetsec/Cybersecurity-Indonesia) - Kumpulan Course pembalajaran tentang *cybersecurity* & *hacking* secara gratis.
 - [Awesome Speakers Indonesia](https://github.com/rizafahmi/awesome-speakers-id) - Para developer asal Indonesia yang diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber.
 - [Awesome Loker IT Indonesia](https://github.com/satyawikananda/awesome-loker-it-indonesia) - Kumpulan daftar lowongan kerja IT yang ada di Indonesia.
+- [Awesome Docker Compose Collection](https://github.com/makiraid/docker-compose-collection) - List of Docker Compose Collection
 
 ## Books
 
