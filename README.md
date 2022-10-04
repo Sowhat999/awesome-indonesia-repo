@@ -292,6 +292,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [PHP-SimpleScanDirektori](https://github.com/Jon3sjns/ScanDir/) - Scan direktori sederhana menggunakan php untuk pencarian direktori yang sensitif.
 - [PHP-E-Commerce](https://github.com/FadellMuhammad/E-commerce) - E-Commerce sederhana, terdapat fitur daftar,login dan profile.
 - [R_CRUD](https://github.com/ICWR-TEAM/R-CRUD) - CRUD PHP Plugins. Fungsi CRUD untuk mempermudah scripting yang berhubungan dengan CRUD.
+- [Letter Avatar for PHP](https://github.com/yohang88/letter-avatar) - Generate avatar berdasarkan inisial nama.
 
 ## CodeIgniter
 
