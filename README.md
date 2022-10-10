@@ -422,6 +422,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [BughunterID](https://github.com/BugHunterID)
 - [Komunitas Programmer Semarang](https://programmer-semarang.com)
 - [React Native Indonesia](https://github.com/react-native-id)
+- [Ethical Hacker Indonesia](https://github.com/ethicalhackID)
 
 ## Content Creator
 
