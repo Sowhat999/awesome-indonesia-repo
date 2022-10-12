@@ -205,6 +205,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 - [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
+- [Geografis](https://github.com/drizki/geografis) - A Node.js module containing detailed area info including area code, postal code, village, district, city, province, coordinates, elevation, and geojson files.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in JavaScript, so you don't backend/database.
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - Figma plugin copy & paste color directly from your phone's camera to design plugins.
 - [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework.
