@@ -166,6 +166,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Design Pattern](https://github.com/imrenagi/design-pattern) - Design pattern with Go
 - [Gubrak](https://github.com/novalagung/gubrak) - Golang functional utility library with syntactic sugar. It's like lodash, but for Go
 - [Godong](https://github.com/novalagung/godong) - Easiest dynamic http route handler for golang
+- [HiberSunda](https://github.com/hiberin/hibersunda) - The API to learn Undak Usuk Basa in Sundanese language.
 
 ## Haskell
 
