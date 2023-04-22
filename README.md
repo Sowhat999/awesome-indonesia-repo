@@ -28,6 +28,7 @@ This list aims to inspire others and hopefully give encouragement for individual
   - [Angular](#angular)
   - [Express](#express)
   - [Vue](#vue)
+  - [NestJs](#nestjs)
   - [Gridsome Starter](#gridsome-starter)
   - [Jekyll Theme](#jekyll-theme)
   - [Learn](#learn)
@@ -254,8 +255,11 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Vuello](https://github.com/kurnyaannn/vuello) - Simple Trello Clone built using Vite-Vue + TailwindCSS
 - [Disgrow-visualization](https://github.com/sinkaroid/disgrow-visualization) - Create your web visualization Discord bots growth and statistics with ease.
 
-## Gridsome Starter
+## NestJs
 
+- [Lyricstify](https://github.com/lyricstify/lyricstify/) - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, NestJs & RxJs.
+
+## Gridsome Starter
 
 ## Jekyll Theme
 
