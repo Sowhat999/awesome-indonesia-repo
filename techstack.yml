@@ -1,0 +1,33 @@
+repo_name: Sowhat999/awesome-indonesia-repo
+report_id: 1ec1a72ed1b47246d43f1195413c73ed
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-15T06:23:41+00:00'
+requested_by: wicky-andrian
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Sowhat999/awesome-indonesia-repo
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Sowhat999/awesome-indonesia-repo/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Diki Andriansyah
+  last_updated_on: 2016-04-06 20:58:21.000000000 Z
